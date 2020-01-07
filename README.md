@@ -10,7 +10,6 @@
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁</a></font></li  
 
 <UL>    
-<UL>  
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li  
 
 <UL>    
