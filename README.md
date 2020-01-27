@@ -13,7 +13,7 @@
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li  
 
 <UL>    
-<h2><p><strong>祝您平安（特刊）:</strong></p></h2>
+<h2><p><strong>祝您平安（特刊回顾）:</strong></p></h2>
 <div>至简、至易的平安秘诀！</div>
 <div><BR></div>
   
