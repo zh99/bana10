@@ -13,7 +13,7 @@
 
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li  
 <div>电脑版软件特别推荐“爱博电视”，全天直播。</div> 
- <div>新闻类节目时间，早上：04:30、06:00、08:15、10:45，下午：13:00、19:00、21:30、22:30</div> 
+<div>新闻类节目时间，早上：04:30、06:00、08:15、10:45，下午：13:00、19:00、21:30、22:30</div> 
 <UL>    
 <h2><p><strong>祝您平安（特刊回顾）:</strong></p></h2>
 <div>平安走过劫难，他们为何如此幸运？</div>
