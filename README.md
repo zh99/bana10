@@ -12,7 +12,6 @@
 <UL>  
  
 
-<UL>  
     
 <li><font class="ws11"><a href="https://github.com/osurf/osurf/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
 <div><BR></div>
