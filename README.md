@@ -4,7 +4,7 @@
 <div><BR></div>
 
  <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">武汉专题（使用工具阅读更方便）</a></font></li>
-  <li><font class="ws11"><a href="https://github.com/zh99/flower9/wiki/%E7%98%9F%E7%96%AB%E7%9A%84%E5%85%8B%E6%98%9F" title="" target="_blank">瘟疫的克星</a></font></li>
+  <li><font class="ws11"><a href="https://github.com/zh99/flower9/wiki/%E7%96%AB%E6%83%85%E5%87%B6%E7%8C%9B%E8%87%AA%E4%BF%9D%E6%9C%89%E5%A6%99%E6%8B%9B" title="" target="_blank">瘟疫的克星</a></font></li>
  <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/cbzs/fq/blob/master/README.md" title="" target="_blank">神州正道(含多种工具)</a></font></li>
 
