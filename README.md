@@ -8,14 +8,18 @@
   <div>
 剧情是根据明慧网刊登的武汉一家市民感染武汉肺炎神奇治愈的真实事件改编。片长35分14秒，这部影片很感人，尤其是到了影片的最后部份，那些出乎意料的情节催人泪下。如果这个网址打不开，请使用网门观看：进入网门主页后，点“临时网址”，打开临时网址后，再点“影片”，或下载网门工具观看（推荐）。</div> 
   
- <div><BR></div>
+
+<div><BR></div>
+ <UL>  
+ <li><font class="ws11"><a href="https://d3l44xr0ze6y8d.cloudfront.net/?key=417631523459&from=ogHomeo" title="" target="_blank">网门高速节点(含大量电影、视频资源)</a></font></li 
+   <UL>  
+ <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门稳定版(长期有效)</a></font></li  
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航（不用工具直接看）</a></font></li   
  <UL> 
  <li><font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
 
  
-<UL>  
- <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门(含大量电影、视频资源)</a></font></li  
+
 <UL>  
 
     
