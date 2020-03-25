@@ -14,6 +14,7 @@
  <li><font class="ws11"><a href="https://d3l44xr0ze6y8d.cloudfront.net/?key=417631523459&from=ogHomeo" title="" target="_blank">网门高速节点(含大量电影、视频资源)</a></font></li 
    <UL>  
  <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门稳定版(长期有效)</a></font></li  
+  <UL> 
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航（不用工具直接看）</a></font></li   
  <UL> 
  <li><font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
