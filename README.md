@@ -4,7 +4,7 @@
 <div><BR></div>
 
  <li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
-  <li><font class="ws11"><a href=https://d2metrfs6xett.cloudfront.net/?key=683364216463&from=ogHomeo title="" target="_blank">电影《危难时刻》通道1</a></font></li>
+  <li><font class="ws11"><a href=https://db8vwi0lyfytv.cloudfront.net/?key=663707015692&from=ogHomeo title="" target="_blank">电影《危难时刻》通道1</a></font></li>
   <li><font class="ws11"> <a href=https://d2xg400fkqivj1.cloudfront.net/?key=868461248682&from=ogHomeo title="" target="_blank">电影《危难时刻》通道2</a></font>
  
   <div>
