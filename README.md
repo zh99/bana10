@@ -13,9 +13,9 @@
 
 <div><BR></div>
 
- <li><font class="ws11"><a href="https://d3l44xr0ze6y8d.cloudfront.net/?key=417631523459&from=ogHomeo" title="" target="_blank">网门高速节点</a></font></li 
+ 
    <UL>  
- <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门稳定版(长期有效)</a></font></li  
+ <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门</a></font></li  
   <UL> 
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
  <UL> 
