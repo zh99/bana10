@@ -4,7 +4,7 @@
 <div><BR></div>
 
  <li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
-  <li><font class="ws11"><a href=https://raw.githack.com/otiny/up/master/show002.htm title="" target="_blank">电影《危难时刻》</a></font></li>
+  <li><font class="ws11"><a href=https://raw.githack.com/otiny/up/master/show002.htm title="" target="_blank">大疫下如何自救？请看电影《危难时刻》</a></font></li>
 <div>观看方法：进入网页后，先点“临时网址”，再点“影片”，或从首页下载工具观看（推荐）。</div> 
  
   <div>
