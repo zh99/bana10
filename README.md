@@ -16,6 +16,7 @@
  
 
  <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
+<div>网门含时事新闻，大量的电影，视频资源。推荐用工具看，更快、更稳定！<a href="https://github.com/kcjxub2852/www/blob/master/README.md?d#1" title="" target="_blank">安卓手机工具</a>   href="https://github.com/kcjxub2852/www/blob/master/README.md?d#1" title="" target="_blank">  电脑工具</font></li></div> 
   <UL> 
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
  <UL> 
