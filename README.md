@@ -26,7 +26,7 @@
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
  
 <div>部分链接个别时间可能打不开，但网主维护速度很快，您可以换个时间再试试。</font></li></div> 
- <UL> 
+
  <li><font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
 
  
