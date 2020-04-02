@@ -15,7 +15,7 @@
 
  
 
- <li><font class="ws11"><a href="https://github.com/odoor2/oo/blob/master/README.md" title="" target="_blank">网门</a></font></li  
+ <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
   <UL> 
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
  <UL> 
