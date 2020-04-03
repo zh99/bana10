@@ -15,7 +15,7 @@
 
  
 
- <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门网页版</a>（进入后点“临时网址”）</font></li  
+ <li><font class="ws11"><a href="https://raw.githack.com/otiny/up/master/show002.htm" title="" target="_blank">网门</a>（进入后点“临时网址”）</font></li  
  <UL> 
  <li><font class="ws11"><a href="https://cdn.jsdelivr.net/gh/kcjxub2852/www/szzd/oGate.apk" title="" target="_blank">网门安卓工具下载</a></font></li  
 <UL> 
