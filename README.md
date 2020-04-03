@@ -25,7 +25,7 @@
  
 <div>网门含时事新闻，大量的电影，视频资源。用工具看，更快、更稳定！</font></li></div> 
 
-<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">禁闻导航</a></font></li   
+<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
  
 <div>部分链接个别时间可能打不开，但网主维护速度很快，您可以换个时间再试试。</font></li></div> 
 
