@@ -4,6 +4,7 @@
 <div><BR></div>
 
  <li><font class="ws11"><a href=https://x.co/pcp title="" target="_blank">武汉肺炎疫情的真实情况</a></font></li>
+<div>看视频的技巧：一般早上网速快，看视频不卡。如果您早上没有时间看，您可以在早上网速快的时候下载下来，以后再看</font></li></div> 
 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
   
