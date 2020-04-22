@@ -7,7 +7,7 @@
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速快，如果早上没有时间看，可以在早上网速快时，先下载下来，以后再看。注：加载视频后，点击播放画面，即可弹出下载选项。</font></li></div> 
 <div><BR></div>
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
-  <div>含大量精品视频</font></li></div> 
+  <div>时事聚焦，并含大量精品视频资源。</font></li></div> 
 <div><BR></div>
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
  
