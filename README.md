@@ -11,8 +11,8 @@
  
 <div>部分链接个别时间可能打不开，但站主维护速度很快，您可以换个时间再试试。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=" https://gitlab.com/szzdlab/www/blob/master/README.md?gotj=” title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
-<div>如果打开后不显示图片，请试试这个:font class="ws11"><a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">稳定版</a></font>。</font></li></div> 
+ <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/blob/master/README.md?gotj=” title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
+<div>如果打开后不显示图片，请使用<a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">稳定版</a></font>。</font></li></div> 
  
 
 <UL>  
