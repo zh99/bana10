@@ -5,7 +5,7 @@
 
 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
-  <div>新闻快报，时事聚焦。含精品电影、纪录片、小品、热播连续剧。</font></li></div> 
+  <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
 <div><BR></div>
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
  
