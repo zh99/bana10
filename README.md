@@ -2,7 +2,7 @@
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-<li><font class="ws11"><a href=https://gitlab.com/zh99/flower/-/wikis/%E5%86%8D%E8%AE%BA%EF%BC%9A%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E6%9B%B4%E5%A4%A7%E6%9B%B4%E7%8C%9B%E7%83%88%E7%9A%84%E7%98%9F%E7%96%AB%E4%BC%9A%E5%86%8D%E6%9D%A5="" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </div>
+<li><font class="ws11"><a href=https://gitlab.com/zh99/flower/-/wikis/%E5%86%8D%E8%AE%BA%EF%BC%9A%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E6%9B%B4%E5%A4%A7%E6%9B%B4%E7%8C%9B%E7%83%88%E7%9A%84%E7%98%9F%E7%96%AB%E4%BC%9A%E5%86%8D%E6%9D%A5 target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </div>
 <div>让电脑阅读如读杂志般沉浸式阅读：<div>
 <div> Edge浏览器打开网页后可以直接按F9进入沉浸阅读模式<div>
 <div> Chrome浏览器可以安装插件<a href=http://ksria.com/simpread/ title="" target="_blank">简悦 </a></a>，然后点击浏览器右上角的插件图标</div>
