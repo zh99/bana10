@@ -2,7 +2,8 @@
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-
+<div>武汉肺炎会过去，但更大更猛烈的瘟疫会再来<div>
+<div><a href=https://github.com/zh99/1/wiki/%E5%86%8D%E8%AE%BA%EF%BC%9A%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E6%9B%B4%E5%A4%A7%E6%9B%B4%E7%8C%9B%E7%83%88%E7%9A%84%E7%98%9F%E7%96%AB%E4%BC%9A%E5%86%8D%E6%9D%A5" title="" target="_blank">电脑版 </a> <a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">手机版</a></font> <a href="https://www.bannedbook.org/bnews/wp-content/uploads/2020/02/lunwy.pdf" title="" target="_blank"> pdf下载版 </a></font> <div>
 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
   <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
