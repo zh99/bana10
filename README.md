@@ -3,7 +3,9 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
 <li><font class="ws11"><a href=http://ksria.com/simpread/title="" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </div>
-<div>让电脑阅读如杂志般沉浸式阅读：如果使用Edge浏览器可以直接按F9进入沉浸阅读模式；如果使用Chrome浏览器请安装插件<a href=http://ksria.com/simpread/ title="" target="_blank">简悦 </a></div>
+<div>让电脑阅读如杂志般沉浸式阅读：<div>
+<div> Edge浏览器打开网页后可以直接按F9进入沉浸阅读模式<div>
+<div> Chrome浏览器可以安装插件<a href=http://ksria.com/simpread/ title="" target="_blank">简悦 </a></div>
 
 <div><BR></div>
 <div><BR></div>
