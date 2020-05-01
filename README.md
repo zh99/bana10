@@ -3,7 +3,7 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </div>
-<div>可以同时按"ctrl"与“+”键放大字体，方便阅读。   
+<div><a href=https://gitlab.com/zh99/flower/-/wikis/%E5%86%8D%E8%AE%BA%EF%BC%9A%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%BC%9A%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%BD%86%E6%9B%B4%E5%A4%A7%E6%9B%B4%E7%8C%9B%E7%83%88%E7%9A%84%E7%98%9F%E7%96%AB%E4%BC%9A%E5%86%8D%E6%9D%A5 title="" target="_blank">备用网址，</a></font>可以同时按"ctrl"与“+”键放大字体，方便阅读。</font></li></div> 
 
 
 <div><BR></div>
