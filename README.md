@@ -4,7 +4,7 @@
 <div><BR></div>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki target="_blank">武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </font></li>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki  title="" target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈。 </a></font></li>
-<div>她和她的团队，在努力消解人类未来的瘟疫之劫，却在冥冥中，演义了“欲破预言、却入天网”的悲怆......</div> 
+<div>“欲破预言、却入天网”......</div> 
 
 <div><BR></div>
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
