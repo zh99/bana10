@@ -2,13 +2,7 @@
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-<li><font class="ws11"><a href=https://zh9988.wordpress.com/%e5%86%8d%e8%ae%ba%ef%bc%9a%e6%ad%a6%e6%b1%89%e8%82%ba%e7%82%8e%e4%bc%9a%e8%bf%87%e5%8e%bb%ef%bc%8c%e4%bd%86%e6%9b%b4%e5%a4%a7%e6%9b%b4%e7%8c%9b%e7%83%88%e7%9a%84%e7%98%9f%e7%96%ab%e4%bc%9a%e5%86%8d target="_blank">高人预警：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </font></li>
-<li><font class="ws11"><a href=https://zh9988.wordpress.com/新冠瘟疫：回溯误区-惊见根源-根本治愈（1） target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈。 </a> </font></li>
-<div>从微观基因、宏观途径、刑侦三个层面论证病毒源头。</div>
-
-  
-
-<div><BR></div>
+<li><font class="ws11"><a 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
   <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
   <div>推荐电影：《归途》，已获34项国际大奖！您还可以通过<a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">下载网门工具，</a></font>观赏该片。</font></li></div>
@@ -25,5 +19,13 @@
 <div><BR></div>
     
 <li><font class="ws11"><a href="https://github.com/osurf/1zdy/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
+<div><BR></div>
+ 
+ href=https://zh9988.wordpress.com/%e5%86%8d%e8%ae%ba%ef%bc%9a%e6%ad%a6%e6%b1%89%e8%82%ba%e7%82%8e%e4%bc%9a%e8%bf%87%e5%8e%bb%ef%bc%8c%e4%bd%86%e6%9b%b4%e5%a4%a7%e6%9b%b4%e7%8c%9b%e7%83%88%e7%9a%84%e7%98%9f%e7%96%ab%e4%bc%9a%e5%86%8d target="_blank">高人预警：武汉肺炎会过去，但更大更猛烈的瘟疫会再来！ </a> </font></li>
+<li><font class="ws11"><a href=https://zh9988.wordpress.com/新冠瘟疫：回溯误区-惊见根源-根本治愈（1） target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈。 </a> </font></li>
+<div>从微观基因、宏观途径、刑侦三个层面论证病毒源头。</div>
+
+  
+
 <div><BR></div>
  
