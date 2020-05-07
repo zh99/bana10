@@ -15,8 +15,6 @@
 <div>个别情况如果打不开，请使用<a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">稳定版</a></font>。</font></li></div> 
  <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。</font></li></div>
 
-
-<div><BR></div>
     
 <li><font class="ws11"><a href="https://github.com/osurf/1zdy/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
   
