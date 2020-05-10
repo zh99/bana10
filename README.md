@@ -24,6 +24,7 @@
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E4%B8%8D%E6%98%AF%E8%8B%B1%E9%9B%84%E6%98%AF%E6%81%B6%E6%8A%A5 target="_blank">不是英雄是恶报 </a> </font></li>
 
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E5%85%BB%E8%99%8E%E4%B8%BA%E6%82%A3%E3%80%80%E7%BE%8E%E5%9B%BD%E7%96%AB%E6%83%85%E4%B8%BA%E4%BD%95%E4%B8%A5%E9%87%8D target="_blank">养虎为患　美国疫情为何严重 </a> </font></li>
+<li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E6%97%A5%E6%9C%AC%E7%96%AB%E6%83%85%E4%BB%A4%E4%B8%93%E5%AE%B6%E8%B4%B9%E8%A7%A3-%E6%97%A5%E6%9C%AC%E5%88%B0%E5%BA%95%E5%81%9A%E5%AF%B9%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F target="_blank">日本疫情令专家费解 日本到底做对了什么？ </a> </font></li>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E6%AD%A6%E6%B1%89%E4%BA%BA%E7%94%A8%E7%9C%9F%E5%90%8D%E4%B8%89%E9%80%80%E5%90%8E%E5%85%A8%E5%AE%B6%E5%BE%97%E6%95%91 target="_blank">武汉一家人全家得救的奇迹 </a> </font></li>
   <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E5%81%9A%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA target="_blank">做一个真正的中国人 </a> </font></li>
 <li><font class="ws11"><a href=https://github.com/zh99/1/wiki/%E5%8F%AF%E4%BC%A0%E6%9F%93%E7%9A%84%E7%BD%AA%E6%81%B6 target="_blank">可传染的罪恶 </a> </font></li>
