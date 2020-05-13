@@ -3,8 +3,8 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
 <li><font class="ws11"><a 
-  <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合(国产浏览器打不开)</a></font></li>
-  <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
+  <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font></li>
+  <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。提醒：国产浏览器打不开!</font></li></div> 
   <div>推荐电影：《归途》，已获34项国际大奖！您还可以通过<a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">下载网门工具，</a></font>观赏该片。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
