@@ -8,7 +8,7 @@
   <div>推荐电影：《归途》，已获34项国际大奖！您还可以通过<a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">下载网门工具，</a></font>观赏该片。</font></li></div>
 
 <div><BR></div>
-<li><font class="ws11"><a href="https://github.com/jyg66/4/wiki" title="" target="_blank">聚缘阁禁网代理</a></font></li   
+<li><font class="ws11"><a href="https://flower99.herokuapp.com/" title="" target="_blank">禁网导航</a></font></li   
  
 <div>部分链接个别时间可能打不开，但站主维护速度很快，您可以换个时间再试试。</font></li></div> 
 <div><BR></div> 
