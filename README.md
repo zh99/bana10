@@ -10,7 +10,7 @@
 <div><BR></div>
 <li><font class="ws11"><a href="https://flower99.herokuapp.com/" title="" target="_blank">禁网导航</a></font></li   
  
-<div>部分链接个别时间可能打不开，但站主维护速度很快，您可以换个时间再试试。</font></li></div> 
+<div>非常好用！部分链接个别时间可能打不开，但站主维护速度很快，可以换个时间再试试。</font></li></div> 
 <div><BR></div> 
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/www/blob/master/README.md" title="" target="_blank">明见（含多种逾墙工具）</a></font></li  
 <div>个别情况如果打不开，请使用<a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">稳定版</a></font>。</font></li></div> 
