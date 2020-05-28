@@ -6,7 +6,7 @@
 <li><font class="ws11"><a 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
   <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
-  <div>推荐电影：《归途》，已获34项国际大奖！您还可以通过<a href="https://github.com/wlrgim293/www/blob/master/README.md"" title="" target="_blank">下载网门工具，</a></font>观赏该片。</font></li></div>
+  <div>推荐时事小品：紧扣时事，诙谐有趣，启人深思。
   <div><BR></div> 
   <li><font class="ws11"><a href="https://flower99.herokuapp.com/" title="" target="_blank">禁网导航</a></font></li   
  
