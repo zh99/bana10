@@ -14,7 +14,7 @@
 
 
 <div><BR></div>
- <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md" title="" target="_blank">24小时全球新闻滚动</a></font></li   
+ <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md" title="" target="_blank">24小时热点禁闻</a></font></li   
  
 
  <div><BR></div>
