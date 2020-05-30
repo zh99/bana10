@@ -16,13 +16,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href="https://github.com/wseodt2577/djy/blob/master/gb/n24hr.md?dfh#1" title="" target="_blank">24小时全球新闻滚动</a></font></li   
  
-<div><BR></div>
 
-
- 
-
-    
-<li><font class="ws11"><a href="https://github.com/osurf/1zdy/blob/master/README.md" title="" target="_blank">逾墙部落</a></font></li>
  <div><BR></div>
  <li><font class="ws11"><a href="https://gitlab.com/zh99/flower/-/blob/master/README.md" title="" target="_blank">免费逾墙工具</a></font></a></font></li  
 <div>首页有时打开稍慢，略等即可。个别情况如果打不开，请使用<a href="https://github.com/wlrgim293/www/blob/master/README.md" title="" target="_blank">稳定版</a></font>。</font></li></div>
