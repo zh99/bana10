@@ -17,7 +17,7 @@
 <div>非常好的电视台，节目丰富，品位高雅，每天用它看新闻，非常方便！</font></li></div> 
 
 <div><BR></div>
- <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md" title="" target="_blank">24小时热点禁闻</a></font>（国产浏览器打不开）</font></li   
+ <li><font class="ws11"><a href="https://github.com/zydd999/bnews/blob/master/readme.md#dsfgt" title="" target="_blank">24小时热点禁闻</a></font>（国产浏览器打不开）</font></li   
  
 
  
