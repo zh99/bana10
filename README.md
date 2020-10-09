@@ -4,14 +4,17 @@
 <div><BR></div>
     <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
  
-<div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
+<div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
-<div>国外浏览器（Chrome、Edge），请使用:<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
+ <li><font class="ws11"><a href=https://github.com/zydd999/w123/wiki/%E7%BF%BB%E5%A2%99%E5%BF%85%E7%9C%8B%E8%A7%86%E9%A2%91 title="" target="_blank">越墙必看视频</a></font></a></font></li>  
+ <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
-<li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
-</div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
+
+<li><font class="ws11"><a href=http://178.128.129.61:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
+<div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
+
+<div>长期访问，推荐使用App,更快、更方便！也可以从这里：<a href="https://x.co/ogate" title="" target="_blank">访问临时简易网址或下载App</a></font></font></li></div>
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
@@ -19,11 +22,11 @@
 ### 喜剧剧场
 
  
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://158.247.209.22/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
+ <li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
+<li><font class="ws11"><a href="http://178.128.129.61/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
 <div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ### 推荐文章、视频
